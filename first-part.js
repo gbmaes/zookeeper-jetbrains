@@ -121,7 +121,6 @@ Switching on the camera in the rabbit habitat...
 (" ~----( ~   Y.  )
 It looks like we will soon have more rabbits!`;*/
 
-
 let array = [camel, lion, deer, goose, bat, rabbit];
 
 let answer = input("Please enter the number of the habitat you would like to view:");
