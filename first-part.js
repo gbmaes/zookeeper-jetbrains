@@ -124,7 +124,6 @@ It looks like we will soon have more rabbits!`;*/
 
 let array = [camel, lion, deer, goose, bat, rabbit];
 
-answer = input("Please enter the number of the habitat you would like to view:");
+let answer = input("Please enter the number of the habitat you would like to view:");
 console.log(array[answer]);
-console.log(`---
-You've reached the end of the program. To check another habitat, please restart the watcher.`);
+console.log("You've reached the end of the program. To check another habitat, please restart the watcher.");
