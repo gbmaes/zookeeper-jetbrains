@@ -1,5 +1,6 @@
 let input = require('sync-input');
 
+
 /*camel =`
 Switching on the camera in the camel habitat...
  ___.-''''-.
