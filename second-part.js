@@ -120,7 +120,6 @@ Switching on the camera in the rabbit habitat...
  ]\\      _\\    /"\\
 (" ~----( ~   Y.  )
 It looks like we will soon have more rabbits!`;*/
-
 let habitat = [camel, lion, deer, goose, bat, rabbit ];
 
 let end = "exit";
