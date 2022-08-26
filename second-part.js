@@ -130,5 +130,4 @@ do {
 }
 
 while (habitatNum != end);
-
 console.log("See you later!");
