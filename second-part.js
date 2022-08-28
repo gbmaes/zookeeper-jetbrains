@@ -127,6 +127,5 @@ do {
    let habitatNum = input("Which habitat # do you need?");
    console.log(habitat[habitatNum]);
 }
-
 while (habitatNum != end);
 console.log("See you later!");
